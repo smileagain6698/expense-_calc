@@ -14,8 +14,10 @@ A Personal Expense Tracker application that allows users to manage their daily e
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/1acbed80-4747-4264-8472-394263c80693)
+![image](https://github.com/user-attachments/assets/94024db9-8d34-46b9-91a2-cedaa050c3c3)
+![image](https://github.com/user-attachments/assets/ed46ef9f-6e49-42b4-b368-c8ca05c491bf)
+
 
 ## Tech Stack
 
